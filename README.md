@@ -23,8 +23,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Persist+Without+Fear+of+Failure"></a>
 </p>
 
-<div id="picture", align="center">
-  <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+<div align="center" width=auto height=500>
+  <img align="left" width=45% height=auto src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <div align="right" width=55% height=auto>
+    <img align="center" height=50% src="https://github-readm-git-186505-van-linh-truong-dangs-projects-d36266e1.vercel.app/api?username=vanlinh-stormbird&card_width=450&show_icons=true&theme=gotham"/>
+    <br></br>
+    <img align="center" height=50% src="https://github-readm-git-186505-van-linh-truong-dangs-projects-d36266e1.vercel.app/api/top-langs/?username=vanlinh-stormbird&card_width=450&&theme=gotham"/>
+  </div>
+</div>
+
+<br></br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,pytorch,tensorflow,arduino,docker,stackoverflow,vscode,linux,&perline=11" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
