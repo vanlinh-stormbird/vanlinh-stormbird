@@ -26,9 +26,9 @@
 <div align="center" width=auto height=500>
   <img align="left" width=45% height=auto src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
   <div align="right" width=55% height=auto>
-    <img align="center" height=50% src="https://github-readm-git-186505-van-linh-truong-dangs-projects-d36266e1.vercel.app/api?username=vanlinh-stormbird&card_width=450&show_icons=true&theme=gotham"/>
+    <img align="center" height=50% src="https://github-readme-stats-indol-three-47.vercel.app/api?username=vanlinh-stormbird&card_width=450&show_icons=true&theme=gotham"/>
     <br></br>
-    <img align="center" height=50% src="https://github-readm-git-186505-van-linh-truong-dangs-projects-d36266e1.vercel.app/api/top-langs/?username=vanlinh-stormbird&card_width=450&&theme=gotham"/>
+    <img align="center" height=50% src="https://github-readme-stats-indol-three-47.vercel.app/api/top-langs/?username=vanlinh-stormbird&card_width=450&&theme=gotham"/>
   </div>
 </div>
 
